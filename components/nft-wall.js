@@ -1,6 +1,4 @@
-import Logo from './logo'
-import NextLink from 'next/link'
-import { Box, useColorModeValue } from '@chakra-ui/react'
+import { Box } from '@chakra-ui/react'
 
 const IMAGE_SERVER_URL =
   'https://ipfs.moralis.io:2053/ipfs/QmUARwfUWtpbFo4HoXQqQwtVLdzikCLJp1kk3mfcEmY5dV/images/'
