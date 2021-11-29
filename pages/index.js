@@ -43,7 +43,7 @@ const Home = () => (
         <BioSection>
           <BioYear>2021 Nov 29</BioYear>
           <br />
-          Dyno #55 #59 #60 #61 #62 #63 #29 #28 were listed on OpenSea
+          Dyno #55 #59 #60 #61 #62 #63 #29 #28 were listed on Opensea
         </BioSection>
 
         <BioSection>
